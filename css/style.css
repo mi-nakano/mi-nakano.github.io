@@ -1,0 +1,56 @@
+/* padding for navbar */
+body{
+  padding-top: 50px;
+}
+.navbar-default {
+  background-color: #0000cd;
+}
+
+/* navbar Brand color */
+.navbar-default .navbar-brand {
+  color: #f5f5f5;
+}
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
+  color: #f5f5f5;
+  background-color: transparent;
+}
+
+/* navbar hover color */
+.navbar-default .navbar-nav > li > a {
+  color: #f5f5f5;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #f5f5f5;
+  background-color: #00008b;
+}
+
+/* navbar humberger border */
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+/* navbar humberger */
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+/* navbar humberger */
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+  background-color: #808080;
+}
+
+/* footer */
+.footer {
+  height: 50px;
+  background-color: #0000cd;
+  padding-bottom: 0;
+}
+.footer > .container {
+  padding-bottom: 0;
+}
+.footer > .container > p {
+  line-height: 50px;
+  color: #f5f5f5;
+  margin: 0;
+}
