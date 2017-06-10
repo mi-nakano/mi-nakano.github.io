@@ -40,6 +40,22 @@ body{
   background-color: #808080;
 }
 
+/* Contact */
+.contact-item {
+  margin-top: 100px;
+  margin: 60px;
+  color: #000000;
+  text-decoration: none;
+}
+.contact-item:hover {
+  text-decoration: none;
+  color: #000000;
+}
+.mega-octicon {
+  color: #000000;
+  font-size: 120px;
+}
+
 /* footer */
 .footer {
   height: 50px;
