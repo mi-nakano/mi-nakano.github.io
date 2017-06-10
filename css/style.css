@@ -1,6 +1,7 @@
 /* padding for navbar */
 body{
   padding-top: 50px;
+  background-color: #0000cd;
 }
 .navbar-default {
   background-color: #0000cd;
@@ -40,7 +41,19 @@ body{
   background-color: #808080;
 }
 
+/* Common */
+.jumbotron {
+  height: 680px;
+  margin-bottom: 80px;
+}
+.jumbotron > h1 {
+  margin-bottom: 20px;
+}
+
 /* Contact */
+#Contact {
+  margin-bottom: 0;
+}
 .contact-item {
   margin-top: 100px;
   margin: 60px;
